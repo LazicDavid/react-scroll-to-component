@@ -12,7 +12,7 @@
     "react-dom": "^0.14.0 || ^15.0.0 || ^16.0.0"
   },
   "dependencies": {
-    "scroll-to": "0.0.2"
+    "scroll-to": "https://github.com/LazicDavid/scroll-to.git"
   },
   "keywords": [
     "react",
